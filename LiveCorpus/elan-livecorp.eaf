@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2017-12-09T15:29:15+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c8d23d9d-42e2-493d-859a-bc6337b95f74</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">41</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="7990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="10970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="17010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="18980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="25960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="26960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="34980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="36990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="43010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="44050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="50020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="50020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="58940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="60980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="67090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="68080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="70010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="70990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="77020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="77970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="85970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="86990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="92590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="93950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="102820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="103940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="105020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="105840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="119000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="120520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="129960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="131200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="140000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="140280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="143000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="144000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="146240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="147200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="150900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="151900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="156200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="157400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="164000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="165000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="171700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="172500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="176400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="177000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="187080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="188720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="198920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="202200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="214000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="216900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="219800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="220000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="233000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="234000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="239000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="240100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="251000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="253000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="257880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="258200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="259800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="260300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="264900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="265100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="270000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="272000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="277900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="279000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="284900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="285200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="291100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="291300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="302900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="303100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="306200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="306900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="310000"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="paragraph" TIER_ID="Баик@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Здравствуйте. Сейчас время интересных историй. Для Максима Кима, лингвистика ВШЭ 2017. Рассказывайте.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>Ну будущее покажет</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="paragraph" TIER_ID="Леха@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Добрый вечер, я хочу рассказать про свою футбольную карьеру, которую я начал в далеком 2004 году, и которая идет по сей день. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Родители начали замечать, когда мне было 3 года, что я люблю играть в мяч и пинать его ногами.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>И я долгое время так играл, и в 6 лет наступил момент, когда меня отдали в футбольную школу молодежи. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Я начал там тренироваться, когда еще ходил в детский сад и многому научился там.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Через полтора года меня взяли в Центральный Спортивный Клуб Армии, команда.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Там я провел долгих 9 лет, у меня были и победы и поражения, я многому научился за это время.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Я очень благодарен всем тренерам, которые тренировали меня, в этот период.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Их было иного, я не буду их перечислять.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Один из них был полной тварью, как раз из за него я ушел из этого клуба.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Следующей моей командой стала команда Локомотив, туда я пришел в 17 лет.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Играл я там год, потому что уже наступал выпуск из этой академии.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Я выпустился, и по идее должен был стать профессиональным футболистом и подписать профессиональный контракт на 100 тысяч. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>Рублей.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Но не все в нашей жизни так гладко, и со мной не подписали контракт, и я жду своего шанса, уже второй год после выпуска из академии, вот.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Какой-то артист встал и посадил меня на банку, я был против этого.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Начал доказывать на тренировке, доказывал каждую тренировку, упорно тренировался, брал гантели после, после рабочего дня и занимался с ними.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Вот так, вот так занимался.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Вот, и я начал чувствовать, что я прибавляю. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Я с каждой тренировкой, с каждой игрой становился все сильнее и сильнее.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>И вот сейчас я до сих пор без контракта, ха-ха.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Продолжаю играть в Локомотиве, езжу на сборы на Кипр бесплатно, вот.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Ну, понимаете, в этой жизни можно столкнуться с многими трудностями.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Одной из этих трудностей стала учеба.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>Я не очень люблю учиться, вот, поэтому закончил школу на... на золотую медаль.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>Не знаю как это получилось, вроде директору дал небольшую взятку, а он ее взял и сказал: “Ладно, парнишка живи”.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>Поступил в самый лучший университет Росиии, Московский Технологический Университет, кампус, расшифровывается как Московский Институт Робототехники, Электроники и Автоматики.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>Учусь я там в институте кибернетики, направление “Мехатроника и робототехника”.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>Вам это возможно неизвестно, потому что вы лингвисты, но один из вас это точно знает, потому что он нормальный, вот.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Рядом со мной сидит друг, он учится на журналиста.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>Он хочет стать профессиональным журналистом, брать интервью у великих спортсменов, и он сказал, что это его первый опыт, и надеется, не последний, когда он берет у сильного игрока интервью, вот.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>Ну я ему сказал, что, возможно, я не самый сильный игрок, у которого он будет брать, но, возможно, и самый сильный</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>Ну да. Конечно не Криштиану Роналду, но, посмотрим. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>Криштиану Роналду просто в МИРЭА не учился, знаете, вот.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>Хорошо, что, я вот учился на первом курсе уже и я понял, что университет это не мое.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>Я закрылся нормально, конечно, но советую вам вообще не учиться в универе, это бессмыслица.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>Лучше заниматься самообразованием, вот.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>Если вы будете дома работать упорно, как вот я работал после тренировок, перед тренировками и во время тренировок, то вы сможете добиться всего в этой жизни, понимаете это, как я.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>Но я этого еще не добился, но, поверьте мне, я добьюсь.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>И знайте, что конец близко. Все, спасибо.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="paragraph" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="association" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="subdivision" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
